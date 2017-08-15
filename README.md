@@ -1,0 +1,1 @@
+# Laravel Passport Resource Client
